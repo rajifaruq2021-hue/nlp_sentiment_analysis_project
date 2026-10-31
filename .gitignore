@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.DS_Store
+*.egg-info/
+*.pdf
+*.docx
+*.zip
+data/IMDB-Dataset.csv
