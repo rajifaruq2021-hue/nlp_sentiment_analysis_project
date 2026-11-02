@@ -10,5 +10,4 @@ venv/
 *.egg-info/
 *.pdf
 *.docx
-*.zip
 data/IMDB-Dataset.csv
