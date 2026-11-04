@@ -1,0 +1,92 @@
+{
+    "Scenario A: Small Scale_Multinomial Naive Bayes": [
+        [
+            38,
+            12
+        ],
+        [
+            8,
+            42
+        ]
+    ],
+    "Scenario A: Small Scale_Logistic Regression": [
+        [
+            40,
+            10
+        ],
+        [
+            10,
+            40
+        ]
+    ],
+    "Scenario A: Small Scale_Linear Support Vector Classifier": [
+        [
+            40,
+            10
+        ],
+        [
+            9,
+            41
+        ]
+    ],
+    "Scenario B: Medium Scale_Multinomial Naive Bayes": [
+        [
+            78,
+            22
+        ],
+        [
+            30,
+            70
+        ]
+    ],
+    "Scenario B: Medium Scale_Logistic Regression": [
+        [
+            75,
+            25
+        ],
+        [
+            19,
+            81
+        ]
+    ],
+    "Scenario B: Medium Scale_Linear Support Vector Classifier": [
+        [
+            76,
+            24
+        ],
+        [
+            15,
+            85
+        ]
+    ],
+    "Scenario C: Full Benchmark_Multinomial Naive Bayes": [
+        [
+            165,
+            35
+        ],
+        [
+            40,
+            160
+        ]
+    ],
+    "Scenario C: Full Benchmark_Logistic Regression": [
+        [
+            164,
+            36
+        ],
+        [
+            29,
+            171
+        ]
+    ],
+    "Scenario C: Full Benchmark_Linear Support Vector Classifier": [
+        [
+            166,
+            34
+        ],
+        [
+            25,
+            175
+        ]
+    ]
+}
