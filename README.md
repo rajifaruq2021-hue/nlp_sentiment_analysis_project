@@ -105,3 +105,4 @@ python src/main.py
 ### Key Findings
 - Linear Support Vector Classifier (Linear SVC) achieved the highest overall performance across all data scenarios, reaching an optimal accuracy of **85.25%** and an F1-score of **0.8557** on the full benchmark.
 - Data scaling visibly enhanced model generalizability and stability, reducing variance and improving boundary separation in the high-dimensional TF-IDF feature space.
+
